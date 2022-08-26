@@ -23,6 +23,10 @@ Using the RRI excel function  i caculated the Compound Monthly Grow Rate (CMGR) 
 
 # Findings & Insights:
 
+**Month On Month Sales Revenue And Growth Rate**
+
+<img width="576" alt="monthonmonth" src="https://user-images.githubusercontent.com/108735886/186972725-caf1dbcb-d48a-4288-aaaa-f7c0f03a34c0.png">
+
 
 
 
